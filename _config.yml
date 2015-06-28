@@ -5,9 +5,8 @@ highlighter: pygments
 #  - jemoji
   
 # Site settings
-title: "Mediator"
-description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+title: "厘米的博客"
+description: A blog of Limitemp
 
 email: a-mail@mail.mail
 #blog logo
